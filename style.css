@@ -138,4 +138,20 @@ p {
   .container {
     margin: 0px;
   }
+  img{
+    border-radius: 0;
+  }
+  .main{
+    margin-left: 0px;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  .title, p, .time, .ingredients,.instructions, .con, hr{
+    margin-left: 25px;
+    padding-left: 0;
+    margin-right: 25px;
+  }
+  h2{
+    margin-left: 10px;
+  }
 }
